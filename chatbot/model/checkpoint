@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/jp/PycharmProjects/Hackoo/chatbot/model/model.tflearn"
+all_model_checkpoint_paths: "/Users/jp/PycharmProjects/Hackoo/chatbot/model/model.tflearn"

@@ -1,0 +1,34 @@
+Hackathon Advice.AI
+—
+[2-3 seconds of Star Wars music as a lead in…]
+[App showing. Welcome screen flashes with the text: “Not so long in the future, not so far away…”]
+Client: “I’ve been a Vanguard client for a few years, but want to take things to the next level — let’s see if I can find some information in this new app!”
+App: “Hello and welcome to the new and improved Vanguard App. Need help navigating your financial future? Check out our new Digital Advice chat feature!”
+Client: “Sounds great!” [Clicks to launch chat.]
+*** Authentication [& face recognition] ***
+App: “Before we take a look at what advice can do for you, let’s complete our authentication. I’ve already got your voice, but just to be sure it’s you, smile and say cheese!”
+Client: “Selfie time.” [camera launches, snaps selfie, reposts it back in chat window.]
+App: Excellent! I’ve matched your face against our reference database.
+Onboarding [& smart question ordering & risk tolerance]
+Welcome [Client Name]! Now, I know we’re all busy, let’s use smart Q&A on-boarding — I’ll spend the time we have on the most important questions.
+Client: “OK! Fire away!”
+App: “What’s your investing style, do you play it safe or can you handle a little more risk?”
+Client: “I am a pretty edgy investor.” [risk tolerance model]
+[… more questions here]
+*** Background Info & Long term goal & BMI ***
+App: Thanks for those answers! From your retail account profile, I have your birthday as May 25, 1977. And from your professional profile linked to your account [show image], I see you’ve been promoted to Head of Data Science at Goggle! Congratulations!
+App: I have your target retirement age as 65. And I measured the BMI from your photo today, seems like you’re pretty healthy. Do you see yourself being flexible with your retirement age?
+Client: “I love what I do! I could do this even longer, so I’m flexible!”
+*** Immediate goal & Scraping ***
+Now, we all want to enjoy retirement, but what’s on your mind today?
+Client: I’ve been thinking about buying a home!
+App: You’ll need to be ready for that down payment and monthly payments as well. When are you thinking of buying?
+Client: In about 3 years.
+App: I see you’re in the Philadelphia area. Is there a neighborhood you’d like?
+Client: [X] neighborhood.
+App: Ok, let me scrape Zillow for you [show image]. I see the prices in that neighborhood are around [X] for a typical home. And factoring in trends, you might be looking at $[]. Is that what you were thinking?
+Client: “That’s right!”
+*** Rebalancing / Allocations ***
+App: “Ok, I’m looking at the time horizon for the funds in your portfolio and recalculating something that will work for your new goals. Bip bop bip bop. Here’s a chart with new allocations [display image] — I’ve highlighted the difference for you.”
+Client: “Great! Let’s go with that!”
+App: “Excellent. I’ve updated all your preferences. Your next statement will appear on May the 4th. In time meantime, I’m always here if you need me!”
